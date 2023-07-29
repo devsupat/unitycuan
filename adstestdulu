@@ -13,8 +13,8 @@
   "AdcolonyBannerID": "YOUR_ADCOLONY_BANNER_ID",
   "AdcolonyInterstitialID": "YOUR_ADCOLONY_INTERSTITIAL_ID",
   "AdcolonyRewardID": "YOUR_ADCOLONY_REWARD_ID",
-  "ApplovinBannerID": "YOUR_APPLOVIN_BANNER_ID",
-  "ApplovinInterstitialID": "YOUR_APPLOVIN_INTERSTITIAL_ID",
-  "ApplovinRewardID": "YOUR_APPLOVIN_REWARD_ID",
+  "ApplovinBannerID": "d81ebf5de26eceb8",
+  "ApplovinInterstitialID": "82d870498ebeaadf",
+  "ApplovinRewardID": "860c445ef102b3a7",
   "HeyzapID": "YOUR_HEYZAP_ID"
 }
