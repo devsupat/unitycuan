@@ -1,20 +1,18 @@
-{
-  "bannerID": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialID": "ca-app-pub-3940256099942544/1033173712",
-  "rewardID": "ca-app-pub-3940256099942544/5224354917",
-  "FANbannerID": "YOUR_FAN_BANNER_ID",
-  "FANinterstitialID": "YOUR_FAN_INTERSTITIAL_ID",
-  "FANrewardID": "YOUR_FAN_REWARD_ID",
-  "UnityAppId": "YOUR_UNITY_APP_ID",
-  "UnityBannerID": "YOUR_UNITY_BANNER_ID",
-  "UnityInterstitialID": "YOUR_UNITY_INTERSTITIAL_ID",
-  "UnityRewardID": "YOUR_UNITY_REWARD_ID",
-  "AdcolonyAppId": "YOUR_ADCOLONY_APP_ID",
-  "AdcolonyBannerID": "YOUR_ADCOLONY_BANNER_ID",
-  "AdcolonyInterstitialID": "YOUR_ADCOLONY_INTERSTITIAL_ID",
-  "AdcolonyRewardID": "YOUR_ADCOLONY_REWARD_ID",
-  "ApplovinBannerID": "d81ebf5de26eceb8",
-  "ApplovinInterstitialID": "82d870498ebeaadf",
-  "ApplovinRewardID": "860c445ef102b3a7",
-  "HeyzapID": "YOUR_HEYZAP_ID"
-}
+bannerIDBeginnullbannerIDLast
+interstitialIDBeginnullinterstitialIDLast
+rewardIDBeginnullrewardIDlast
+UnityAppIdBegin4763243UnityAppIdLast
+UnityBannerIDBeginBanner_AndroidUnityBannerIDLast
+UnityInterstitialIDBeginInterstitial_AndroidUnityInterstitialIDLast
+UnityRewardIDBeginRewarded_AndroidUnityRewardIDLast
+ApplovinBannerIDBegind81ebf5de26eceb8ApplovinBannerIDLast
+ApplovinInterstitialIDBegin82d870498ebeaadfApplovinInterstitialIDLast
+ApplovinRewardIDBeginRewarded_AndroidApplovinRewardIDLast
+IronsourceAppIDBegin                IronsourceAppIDLast
+IronsourceBannerIDBegin             IronsourceBannerIDLast
+IronsourceinterstitialIDBegin       IronsourceinterstitialIDLast
+IronsourcerewardedVideoIDBegin      IronsourcerewardedVideoIDLast
+AdcolonyAppIDBegin                  AdcolonyAppIDLast
+AdcolonybannerIDBegin               AdcolonybannerIDLast
+AdcolonyinterstitialIDBegin         AdcolonyinterstitialIDLast
+AdcolonyrewardIDBegin               AdcolonyrewardIDLast
