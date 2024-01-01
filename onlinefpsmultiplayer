@@ -1,18 +1,18 @@
-bannerIDBeginNullbannerIDLast
-interstitialIDBeginca-app-pub-5833412546865928/6609929089interstitialIDLast
-rewardIDBeginca-app-pub-3940256099942544/5224354917rewardIDlast
-UnityAppIdBegin5131847UnityAppIdLast
-UnityBannerIDBeginBanner_AndroidUnityBannerIDLast
-UnityInterstitialIDBeginInterstitial_AndroidUnityInterstitialIDLast
-UnityRewardIDBeginRewarded_AndroidUnityRewardIDLast
-ApplovinBannerIDBeginNullApplovinBannerIDLast
-ApplovinInterstitialIDBegine563dc960afd418fApplovinInterstitialIDLast
-ApplovinRewardIDBegin1e3689908c46e534ApplovinRewardIDLast
-IronsourceAppIDBegin                IronsourceAppIDLast
-IronsourceBannerIDBegin             IronsourceBannerIDLast
-IronsourceinterstitialIDBegin       IronsourceinterstitialIDLast
-IronsourcerewardedVideoIDBegin      IronsourcerewardedVideoIDLast
-AdcolonyAppIDBegin                  AdcolonyAppIDLast
-AdcolonybannerIDBegin               AdcolonybannerIDLast
-AdcolonyinterstitialIDBegin         AdcolonyinterstitialIDLast
-AdcolonyrewardIDBegin               AdcolonyrewardIDLast
+{
+  "appId_admob": "ca-app-pub-3940256099942544~3347511713",
+  "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+  "inter_admob": "ca-app-pub-3940256099942544/1033173712",
+  "reword_admob": "ca-app-pub-3940256099942544/5224354917",
+  "sdk_key": "O_i4O7hZgEbJ-18GsubSBVhOE32oJGvG5q6V5aOGppdntFCzpGIAEHO7qfR5UpcEGWgre3qeB_vLQ_7FiSI0Ni",
+  "banner_applovin": "d81ebf5de26eceb8",
+  "inter_applovin": "fa6bdf36d85aca10",
+  "reword_applovin": "c1ade561c02385d1",
+  "game_id": "",
+  "banner_unity": "Banner_Android",
+  "inter_unity": "Interstitial_Android",
+  "reword_unity":"Rewarded_Android",
+  "banner_fan": "your_fan_banner_id",
+  "inter_fan": "your_fan_interstitial_id",
+  "reword_fan": "your_fan_rewarded_id",
+  "open_admob": "ca-app-pub-3940256099942544/9257395921",
+}
