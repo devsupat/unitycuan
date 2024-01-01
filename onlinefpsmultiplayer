@@ -1,7 +1,7 @@
 {
   "appId_admob": "ca-app-pub-3940256099942544~3347511713",
   "banner_admob": "ca-app-pub-3940256099942544/6300978111",
-  "inter_admob": "ca-app-pub-3940256099942544/1033173712",
+  "inter_admob": "ca-app-pub-3940256099942544/6300978111",
   "reword_admob": "ca-app-pub-3940256099942544/5224354917",
   "sdk_key": "O_i4O7hZgEbJ-18GsubSBVhOE32oJGvG5q6V5aOGppdntFCzpGIAEHO7qfR5UpcEGWgre3qeB_vLQ_7FiSI0Ni",
   "banner_applovin": "d81ebf5de26eceb8",
@@ -10,9 +10,9 @@
   "game_id": "",
   "banner_unity": "Banner_Android",
   "inter_unity": "Interstitial_Android",
-  "reword_unity":"Rewarded_Android",
+  "reword_unity": "Rewarded_Android",
   "banner_fan": "your_fan_banner_id",
   "inter_fan": "your_fan_interstitial_id",
   "reword_fan": "your_fan_rewarded_id",
-  "open_admob": "ca-app-pub-3940256099942544/9257395921",
+  "open_admob": "ca-app-pub-3940256099942544/9257395921"
 }
