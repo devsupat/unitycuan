@@ -1,0 +1,15 @@
+{
+  "redirect": [
+    {
+      "high_paying_keyword": [
+        "loan",
+        "Lawyer",
+        "Insurance",
+        "Mortgage",
+        "Attorney"
+      ],
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
