@@ -1,18 +1,24 @@
-bannerIDBeginca-app-pub-3940256099942544/6300978111bannerIDLast
-interstitialIDBeginca-app-pub-5833412546865928/6609929089interstitialIDLast
-rewardIDBeginca-app-pub-3940256099942544/5224354917rewardIDlast
-UnityAppIdBegin5131847UnityAppIdLast
-UnityBannerIDBeginBanner_AndroidUnityBannerIDLast
-UnityInterstitialIDBeginInterstitial_AndroidUnityInterstitialIDLast
-UnityRewardIDBeginRewarded_AndroidUnityRewardIDLast
-ApplovinBannerIDBeginNullApplovinBannerIDLast
-ApplovinInterstitialIDBegine563dc960afd418fApplovinInterstitialIDLast
-ApplovinRewardIDBegin1e3689908c46e534ApplovinRewardIDLast
-IronsourceAppIDBegin                IronsourceAppIDLast
-IronsourceBannerIDBegin             IronsourceBannerIDLast
-IronsourceinterstitialIDBegin       IronsourceinterstitialIDLast
-IronsourcerewardedVideoIDBegin      IronsourcerewardedVideoIDLast
-AdcolonyAppIDBegin                  AdcolonyAppIDLast
-AdcolonybannerIDBegin               AdcolonybannerIDLast
-AdcolonyinterstitialIDBegin         AdcolonyinterstitialIDLast
-AdcolonyrewardIDBegin               AdcolonyrewardIDLast
+{
+  "AppLovinSDKKey": "O_i4O7hZgEbJ-18GsubSBVhOE32oJGvG5q6V5aOGppdntFCzpGIAEHO7qfR5UpcEGWgre3qeB_vLQ_7FiSI0Ni",
+  "adUnitId": "ca-app-pub-7022991062962464~6400946129",
+  "AdMobAppOpenID": "ca-app-pub-7022991062962464/2920696246",
+  "bannerID": "ca-app-pub-7022991062962464/7017258895",
+  "interstitialID": "ca-app-pub-7022991062962464/7825538565",
+  "rewardID": "ca-app-pub-7022991062962464/9040787003",
+  "AppLovinAppOpenID": "19e520c1544dd816",
+  "FANbannerID": "YOUR_FAN_BANNER_ID",
+  "FANinterstitialID": "YOUR_FAN_INTERSTITIAL_ID",
+  "FANrewardID": "YOUR_FAN_REWARD_ID",
+  "UnityAppId": "YOUR_UNITY_APP_ID",
+  "UnityBannerID": "YOUR_UNITY_BANNER_ID",
+  "UnityInterstitialID": "YOUR_UNITY_INTERSTITIAL_ID",
+  "UnityRewardID": "YOUR_UNITY_REWARD_ID",
+  "ApplovinBannerID": "9263a0e8f8866f0f",
+  "ApplovinInterstitialID": "3b6778d6a3268a6e",
+  "ApplovinRewardID": "002816ee568b10ce",
+  "AdcolonyAppId": "YOUR_ADCOLONY_APP_ID",
+  "AdcolonyBannerID": "YOUR_ADCOLONY_BANNER_ID",
+  "AdcolonyInterstitialID": "YOUR_ADCOLONY_INTERSTITIAL_ID",
+  "AdcolonyRewardID": "YOUR_ADCOLONY_REWARD_ID",
+  "HeyzapID": "YOUR_HEYZAP_ID"
+}
